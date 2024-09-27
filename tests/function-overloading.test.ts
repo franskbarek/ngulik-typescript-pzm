@@ -1,0 +1,1 @@
+// Kemampuan untuk membuat function dengan nama yang sama, namun dengan parameter input yang berbeda
